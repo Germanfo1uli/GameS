@@ -17,7 +17,7 @@ public:
     void setName(const string& n);
     string getName() const;
 
-    void setHealth(int h;
+    void setHealth(int h);
     int getHealth() const;
 
     void setDamage(int d);
