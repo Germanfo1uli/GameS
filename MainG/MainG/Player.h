@@ -17,14 +17,14 @@ public:
     void setName(const string& n);
     string getName() const;
 
-    void setHealth(int h;
+    void setHealth(int h);
     int getHealth() const;
 
     void setDamage(int d);
     int getDamage() const;
 
     void setStatus(int s);
-    int getStatus() const;//а тут покумекать надо
+    int getStatus() const;//РўСѓС‚ РїРѕРєСѓРјРµРєР°С‚СЊ РЅР°РґРѕ
 
     void setInnuice(int d);
     int getInnuice() const;
